@@ -1,0 +1,17 @@
+#  Taiwan Shadow Report 2016 on the Implementation of the International Covenant on Civil and Political Rights
+
+* [Special Chapter on Indigenous Peoples](special.md)
+* [Article 2, Article 3, and Article 26 Equality and Anti-Discrimination](article-02,03,26.md)
+* [Article 6 The Right to Life](article-06.md)
+* [Article 7 Anti-torture](article-07.md)
+* [Article 8 Prohibitions of Slavery and Enforced Servitude](article-08.md)
+* [Article 9 Freedom of Person](article-09.md)
+* [Article 10 Treatment of Persons Deprived of Their Liberty](article-10.md)
+* [Article 13 Ban on Arbitrary Expulsion of Resident Aliens](article-13.md)
+* [Article 14 Right to a Fair Trial](article-14.md)
+* [Article 16 The right to be recognized as a person before the law](article-16.md)
+* [Article 17 Right to Privacy](article-17.md)
+* [Article 19 Freedom of Expression](article-19.md)
+* [Article 21 The rights to assembly and parade](article-21.md)
+* [Article 23 Family rights](article-23.md)
+* [Article 24 Children’s rights](article-24.md)
