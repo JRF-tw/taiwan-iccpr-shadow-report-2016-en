@@ -1,5 +1,4 @@
 ## Article 10 Treatment of Persons Deprived of Their Liberty
-</ol>
 
 ### Overview of Human Rights in Prison
 
